@@ -1,0 +1,31 @@
+.hov:hover {
+  background-color: rgb(238, 62, 179);
+}
+
+.div {
+  display: inline-block;
+  border: 1px solid black;
+  width: 200px;
+  height: 200px;
+  margin: -2px;
+}
+
+.pink {
+  background-color: pink;
+}
+
+.pink {
+  background-color: pink;
+}
+
+.roxo {
+  background-color: purple;
+}
+
+.violeta {
+  background-color: blueviolet;
+}
+
+.lavanda {
+  background-color: rgb(194, 143, 241);
+}
